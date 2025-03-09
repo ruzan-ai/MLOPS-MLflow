@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349454435132132479/6a992fc062ef46fcb5c5bf8413d3eb2d/artifacts
+end_time: 1741499363762
+entry_point_name: ''
+experiment_id: '349454435132132479'
+lifecycle_stage: active
+run_id: 6a992fc062ef46fcb5c5bf8413d3eb2d
+run_name: gifted-asp-36
+run_uuid: 6a992fc062ef46fcb5c5bf8413d3eb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741499359814
+status: 3
+tags: []
+user_id: roxan

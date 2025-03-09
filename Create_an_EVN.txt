@@ -1,0 +1,4 @@
+create - conda create -n mlflow-env python=3.9 -y
+activate - conda activate mlflow-env
+Install libraries 
+mlflow ui
